@@ -26,6 +26,6 @@ The underlying evidence pack spans more than 11,900 tested bot configurations/ca
 
 ## Evidence model
 
-This public repository provides black-box evidence. It establishes what was built, the production status, the third-party boundary and Miguel Antonov's role.
+This public repository provides black-box evidence. It establishes what was built, the production status, the third-party boundary and my role.
 
 It does not disclose how the protected implementation works internally.
