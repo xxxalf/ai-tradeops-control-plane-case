@@ -1,7 +1,3 @@
----
-created: 2026-07-30T18:42:19+03:00
-modified: 2026-08-04T12:16:24+03:00
----
 # Production evidence summary
 
 ## Public evidence
