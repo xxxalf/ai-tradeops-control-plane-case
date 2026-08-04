@@ -12,7 +12,7 @@ HaasOnline TradeServer is a commercial third-party platform. This case does not 
 
 ## Personally designed, implemented and operated
 
-Miguel Antonov personally owned:
+I'm personally owned:
 
 - requirements discovery and technical-commercial framing;
 - product R&D and target-system design;
