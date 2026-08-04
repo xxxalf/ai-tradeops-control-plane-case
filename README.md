@@ -1,7 +1,3 @@
----
-created: 2026-07-30T18:42:19+03:00
-modified: 2026-08-04T12:15:24+03:00
----
 #  AI-Assisted TradeOps Control Plane — Black-Box Production Case
 Public case by **Miguel Antonov**
 
