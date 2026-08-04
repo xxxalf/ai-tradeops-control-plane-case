@@ -7,7 +7,7 @@ This repository documents production scope, personal ownership and transferable 
 
 - Work period: 2023–present
 - Hands-on production engineering since 2023
-- Two years of continuous private-project operation and client reporting
+- More than two years of continuous private-project operation and client reporting
 - Evidence pack spanning 11,900+ tested bot configurations/candidates and 589 selected candidates across documented reporting periods
 - Approximately 60-node production infrastructure across Hetzner, Google Cloud, OneProvider, Vultr, DigitalOcean and Contabo, using Proxmox where applicable, Linux and containerized services
 - HaasOnline TradeServer used as a third-party execution core
