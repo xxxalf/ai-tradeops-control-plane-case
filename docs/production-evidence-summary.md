@@ -6,7 +6,7 @@ The following facts may be stated publicly:
 
 - 2023–present engagement;
 - hands-on production engineering since 2023;
-- three years of continuous private-project operation and reporting;
+- more than two years of continuous private-project operation and reporting;
 - evidence pack spanning 11,900+ tested bot configurations/candidates and 589 selected candidates across documented reporting periods;
 - approximately 60 dedicated servers and cloud instances across Hetzner, Google Cloud, OneProvider, Vultr, DigitalOcean and Contabo, using Proxmox where applicable, Linux and containerized services;
 - HTS as the third-party first proven execution connector;
