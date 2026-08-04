@@ -1,29 +1,56 @@
-# Independent Haas service history
+# Independent HaasScript Service History
 
-## Scope
+## Context
 
-Since 2022, Miguel Antonov has worked with HaasScript and has provided project-based assistance to private Haas users.
+Since 2022, I have provided project-based engineering services to private Haas users and participated in the Haas community under the Discord identity `@x.01.001k`.
 
-The safe public capability scope is:
+The work has included requirements clarification, HaasScript/Lua development, modularization, validation workflows, troubleshooting, controlled handover and external Python/API/MCP-based integration where relevant.
 
-- requirements clarification for incomplete trading ideas;
-- HaasScript development, transfer, review and modularization;
-- separation of strategy, execution, risk and portfolio concerns;
-- historical, test/SIM/paper and controlled-operation planning;
-- troubleshooting and supported handover;
-- external Python/AI/API, analytics or reporting integration when relevant.
+## Historical Haas community announcement
 
-This service history supports the ability to move from client discovery to technical specification, implementation, validation and support. It is separate from the 2023-present production case.
+A historical service announcement was published inside the HaasOnline Discord community to document the availability of private HaasScript and algorithmic-trading-systems engineering services.
 
-## Evidence boundary
+* **Platform:** HaasOnline Discord community
+* **Author:** Miguel
+* **Discord identity:** `@x.01.001k`
+* **Initial service activity:** 2022
+* **Original message:** https://discord.com/channels/269316665483722764/1248230698859368482/1248230698859368482
+* **Access:** The original source may require Discord authentication and membership in the HaasOnline community.
+* **Status:** Historical evidence; the commercial terms in the original announcement have been superseded.
 
-A verified public announcement URL, authored community contributions and sanitized engagement evidence may be added after date, authorship and publication rights are checked.
+> Historical Haas community service announcement documenting my public HaasScript and trading-systems work since 2022. Current scope, pricing, language availability and support terms are agreed separately and are stated in my current service profile.
 
-No client name, private communication, strategy logic, source code, trading result or account data is published here.
+## Capabilities documented by the historical announcement
 
-The existence of an advertised capability does not imply that every listed capability was delivered in every engagement.
+The announcement documented the availability of services including:
 
-## HFT boundary
+* translating trading ideas into explicit requirements and implementation scope;
+* developing, transferring, reviewing and modularizing HaasScript/Lua systems;
+* separating strategy, execution, risk and portfolio concerns;
+* defining historical validation, test, SIM/paper and controlled-operation paths;
+* troubleshooting scripts, configuration and operating behavior;
+* adding external Python, API, AI/LLM, analytics and reporting capabilities where appropriate;
+* supporting controlled delivery, confidentiality and contract-based cooperation.
 
-Algorithmic-trading domain experience dates from 2016. It supports quantitative, execution/risk and research-to-production roles. It is not presented as proof of institutional low-latency production engineering, direct market access, colocation, measured microsecond latency or production low-latency C++.
+The historical announcement is evidence of public service positioning and community participation. It is not an investment-performance claim, client reference or representation of current commercial terms.
 
+## Current service terms
+
+Current engagements normally begin with paid discovery or written requirements and scope.
+
+Pricing, delivery stages, acceptance criteria, intellectual-property terms, confidentiality, support and maintenance are agreed separately for each engagement.
+
+Confirmed defects against the agreed specification are corrected for 30 days after acceptance. New functionality, strategy changes, exchange/API changes, operational support and ongoing maintenance are scoped separately.
+
+Current professional profile and services:
+
+* [LinkedIn profile and services](https://www.linkedin.com/in/miguel-antonov)
+* [AI-Assisted TradeOps Control Plane — Black-Box Production Case](https://github.com/xxxalf/ai-tradeops-control-plane-case)
+
+## Evidence and access boundary
+
+The original Discord message may not be independently accessible to people who are not authenticated members of the HaasOnline community.
+
+The Discord link is therefore retained as a primary-source reference, while this GitHub page provides a stable public description of its authorship, purpose, historical scope and current status.
+
+No private client communications, client identities, source code, proprietary trading logic, configuration details or investment-performance data are published here.
