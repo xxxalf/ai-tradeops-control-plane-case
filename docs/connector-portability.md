@@ -2,7 +2,7 @@
 
 ## Proven connector
 
-HaasOnline TradeServer is the first execution connector proven through the MCP-based integration boundary in laboratory and production environments.
+The third-party execution platform is the first execution connector proven through the MCP-based integration boundary in laboratory and production environments.
 
 ## Additional engines
 

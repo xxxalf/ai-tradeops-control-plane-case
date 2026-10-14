@@ -10,7 +10,7 @@ Allowed:
 - production status and time period;
 - personal role and third-party boundary;
 - high-level technology inventory;
-- HTS as the first proven MCP-based connector;
+- an unnamed third-party execution platform as the first proven MCP-based connector;
 - evidence categories and references.
 - operating-scale counts only when their source and counting method can be
   explained; they are never presented as investment performance.

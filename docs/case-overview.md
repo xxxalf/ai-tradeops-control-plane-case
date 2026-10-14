@@ -4,7 +4,7 @@
 
 A private trading-systems engagement required continuous ownership across quantitative validation, automated execution, external operational control, infrastructure reliability and client reporting.
 
-HaasOnline TradeServer was used as a third-party execution core. It became the first proven connector through an MCP-based integration boundary. A confidential external AI/TradeOps control and operations layer was designed, implemented and operated around that boundary.
+A third-party trading platform was used as the execution core. It became the first proven connector through an MCP-based integration boundary. A confidential external AI/TradeOps control and operations layer was designed, implemented and operated around that boundary.
 
 The connector and surrounding workflows were validated in laboratory and production environments.
 

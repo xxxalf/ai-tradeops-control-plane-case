@@ -10,8 +10,8 @@ This repository documents production scope, personal ownership and transferable 
 - More than two years of continuous private-project operation and client reporting
 - Evidence pack spanning 11,900+ tested bot configurations/candidates and 589 selected candidates across documented reporting periods
 - Approximately 60-node production infrastructure across Hetzner, Google Cloud, OneProvider, Vultr, DigitalOcean and Contabo, using Proxmox where applicable, Linux and containerized services
-- HaasOnline TradeServer used as a third-party execution core
-- HTS used as the first proven execution connector through an MCP-based integration boundary
+- A third-party trading platform used as the execution core
+- That platform used as the first proven execution connector through an MCP-based integration boundary
 - External AI/TradeOps control and operations layer designed, implemented and operated
 - Connector and surrounding workflows validated in laboratory and production environments
 - Quantitative research-to-production, Python data/AI, platform, reliability and operational ownership
@@ -23,7 +23,7 @@ The scale figures describe research and operating volume, not investment perform
 - Hands-on programming foundation since 2008
 - Linux/Bash foundation since 2010
 - Algorithmic-trading domain experience since 2016
-- HaasScript development and project-based private-user work since 2022
+- Trading-platform script development and project-based private-user work since 2022
 - Production engineering since 2023
 
 These dates are kept separate: earlier technical and trading practice is not represented as continuous production-software employment.
@@ -34,10 +34,10 @@ These dates are kept separate: earlier technical and trading practice is not rep
 flowchart LR
     External[Confidential external control and operations layer]
     Boundary[Protected MCP-based integration boundary]
-    HTS[Third-party HaasOnline TradeServer]
+    Execution[Third-party execution platform]
 
     External <--> Boundary
-    Boundary <--> HTS
+    Boundary <--> Execution
 ```
 
 The diagram proves responsibility boundaries only. It intentionally omits interfaces, commands, schemas, mappings, configuration logic, control flow and source code.
@@ -46,7 +46,7 @@ The diagram proves responsibility boundaries only. It intentionally omits interf
 
 **Production-proven**
 
-- the HTS connector;
+- the first execution connector;
 - the external control and operations layer;
 - laboratory and production validation;
 - the multi-server operating environment.
@@ -61,14 +61,14 @@ This is not a claim that other connectors already exist or that every engine can
 
 I personally owned requirements discovery, product R&D, quantitative validation, systems architecture, implementation, testing, deployment, infrastructure operations, incident work, client communication and reporting.
 
-HaasOnline TradeServer, its native GUI and its built-in capabilities are third-party technology and are not claimed as my development.
+The execution platform, its native GUI and its built-in capabilities are third-party technology and are not claimed as my development.
 
 ## Repository map
 
 - [Case overview](docs/case-overview.md)
 - [Ownership and third-party boundary](docs/ownership-and-third-party-boundary.md)
 - [Production evidence summary](docs/production-evidence-summary.md)
-- [Independent Haas service history](docs/independent-haas-service-history.md)
+- [Independent client-service history](docs/independent-client-service-history.md)
 - [Reliability principles](docs/reliability-principles.md)
 - [Connector portability](docs/connector-portability.md)
 - [Disclosure policy](docs/disclosure-policy.md)
@@ -85,7 +85,7 @@ HaasOnline TradeServer, its native GUI and its built-in capabilities are third-p
 - proprietary strategy logic;
 - infrastructure identifiers and credentials;
 - client reports, logs, runbooks, postmortems and security mechanisms;
-- private Haas-client messages, code, strategies and results;
+- private client messages, code, strategies and results;
 - investment-return claims.
 
 Deeper evidence is available only through controlled interview review or qualified contractual disclosure.
